@@ -13,25 +13,25 @@
 <p align="center">
   <a href="mailto:onkarkhilari17@gmail.com" target="_blank" style="margin: 0 8px; text-decoration: none;">
     <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
-      <circle cx="20" cy="20" r="18" fill="#1C2128" stroke="#30363d" stroke-width="1.5" />
-      <rect x="11" y="13" width="18" height="14" rx="2" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-      <path d="M11 13l9 7 9-7" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      <circle cx="20" cy="20" r="18" fill="none" stroke="currentColor" stroke-width="1.2" />
+      <rect x="11" y="13" width="18" height="14" rx="2" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M11 13l9 7 9-7" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
     </svg>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/onkar-khilari" target="_blank" style="margin: 0 8px; text-decoration: none;">
     <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
-      <circle cx="20" cy="20" r="18" fill="#1C2128" stroke="#30363d" stroke-width="1.5" />
-      <path d="M25 15a4 4 0 0 1 4 4v7h-3v-7a1 1 0 0 0-1-1 1 1 0 0 0-1 1v7h-3v-7a4 4 0 0 1 4-4z" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      <rect x="12" y="16" width="3" height="10" fill="#58A6FF"/>
-      <circle cx="13.5" cy="12" r="1.5" fill="#58A6FF"/>
+      <circle cx="20" cy="20" r="18" fill="none" stroke="currentColor" stroke-width="1.2" />
+      <path d="M22 17a3 3 0 0 1 3 3v6h-2.5v-6a0.8 0 0 0-.8-.8 0.8 0 0 0-.8.8v6H19v-6a3 3 0 0 1 3-3z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="14" y="18" width="2.5" height="8" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="15.25" cy="14" r="1.25" fill="currentColor"/>
     </svg>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/khilarionkar05" target="_blank" style="margin: 0 8px; text-decoration: none;">
     <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
-      <circle cx="20" cy="20" r="18" fill="#1C2128" stroke="#30363d" stroke-width="1.5" />
-      <path d="M18 29.5c-4 1.2-4-2-5.6-2.4m11.2 4.8v-3.1a2.7 2.7 0 0 0-.75-2.1c2.5-.28 5.15-1.23 5.15-5.6A4.35 4.35 0 0 0 27 18.1a4 4 0 0 0-.07-2.9s-.9-.26-3 1.2a10.7 10.7 0 0 0-5.6 0c-2.1-1.46-3-1.2-3-1.2a4 4 0 0 0-.08 2.9 4.35 4.35 0 0 0-1.18 3.1c0 4.35 2.65 5.3 5.15 5.6a2.7 2.7 0 0 0-.75 2.1v3.1" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="20" cy="20" r="18" fill="none" stroke="currentColor" stroke-width="1.2" />
+      <path d="M18 29.5c-4 1.2-4-2-5.6-2.4m11.2 4.8v-3.1a2.7 2.7 0 0 0-.75-2.1c2.5-.28 5.15-1.23 5.15-5.6A4.35 4.35 0 0 0 27 18.1a4 4 0 0 0-.07-2.9s-.9-.26-3 1.2a10.7 10.7 0 0 0-5.6 0c-2.1-1.46-3-1.2-3-1.2a4 4 0 0 0-.08 2.9 4.35 4.35 0 0 0-1.18 3.1c0 4.35 2.65 5.3 5.15 5.6a2.7 2.7 0 0 0-.75 2.1v3.1" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
     </svg>
   </a>
 </p>
