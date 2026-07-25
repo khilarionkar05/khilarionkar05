@@ -261,12 +261,12 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
             <font size="1" color="#F0F6FC"><strong>Antigravity</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A31D1D; border-radius: 10px;">
-            <img src="https://api.iconify.design/lucide:ghost.svg?color=A31D1D" width="40" height="40" alt="Kiro" />
+            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#A31D1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;"><path d="M9 10h.01M15 10h.01M21 11.5A8.38 8.38 0 0 0 12 3a8.38 8.38 0 0 0-9 8.5C3 16.5 6 21 12 21s9-4.5 9-9.5zM3 11.5c1.5-1 3.5-1 5 0 1.5 1 3.5 1 5 0 1.5-1 3.5-1 5 0 1.5 1 3 1"/></svg>
             <br />
             <font size="1" color="#F0F6FC"><strong>Kiro</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/visualstudiocode" width="40" height="40" alt="VS Code" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
             <br />
             <font size="1" color="#F0F6FC"><strong>VS Code</strong></font>
           </td>
