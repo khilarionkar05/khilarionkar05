@@ -93,27 +93,27 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 <table width="100%">
   <tr>
     <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
-      <h3 align="center" style="margin-top: 0; color: #A855F7; font-family: 'Orbitron', 'Inter', sans-serif;"> Artificial Intelligence & Machine Learning</h3>
+      <h3 align="center" style="margin-top: 0; color: #A855F7; font-family: 'Orbitron', 'Inter', sans-serif;">🤖 Artificial Intelligence & Machine Learning</h3>
       <br />
       <table align="center" border="0" cellpadding="6" cellspacing="6">
         <tr align="center">
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" />
+            <img src="https://cdn.simpleicons.org/pytorch" width="40" height="40" alt="PyTorch" />
             <br />
             <font size="1" color="#F0F6FC"><strong>PyTorch</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />
+            <img src="https://cdn.simpleicons.org/tensorflow" width="40" height="40" alt="TensorFlow" />
             <br />
             <font size="1" color="#F0F6FC"><strong>TensorFlow</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" />
+            <img src="https://cdn.simpleicons.org/opencv" width="40" height="40" alt="OpenCV" />
             <br />
             <font size="1" color="#F0F6FC"><strong>OpenCV</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="scikit-learn" />
+            <img src="https://cdn.simpleicons.org/scikitlearn" width="40" height="40" alt="scikit-learn" />
             <br />
             <font size="1" color="#F0F6FC"><strong>scikit-learn</strong></font>
           </td>
@@ -123,12 +123,12 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
             <font size="1" color="#F0F6FC"><strong>Seaborn</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #00C896; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" alt="Pandas" />
+            <img src="https://cdn.simpleicons.org/pandas" width="40" height="40" alt="Pandas" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Pandas</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #00C896; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=numpy" width="40" height="40" alt="NumPy" />
+            <img src="https://cdn.simpleicons.org/numpy" width="40" height="40" alt="NumPy" />
             <br />
             <font size="1" color="#F0F6FC"><strong>NumPy</strong></font>
           </td>
@@ -143,37 +143,37 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 <table width="100%">
   <tr>
     <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
-      <h3 align="center" style="margin-top: 0; color: #58A6FF; font-family: 'Orbitron', 'Inter', sans-serif;"> Backend & Systems Architecture</h3>
+      <h3 align="center" style="margin-top: 0; color: #58A6FF; font-family: 'Orbitron', 'Inter', sans-serif;">⚙️ Backend & Systems Architecture</h3>
       <br />
       <table align="center" border="0" cellpadding="6" cellspacing="6">
         <tr align="center">
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+            <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Python</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" />
+            <img src="https://cdn.simpleicons.org/fastapi" width="40" height="40" alt="FastAPI" />
             <br />
             <font size="1" color="#F0F6FC"><strong>FastAPI</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+            <img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="TypeScript" />
             <br />
             <font size="1" color="#F0F6FC"><strong>TypeScript</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+            <img src="https://cdn.simpleicons.org/javascript" width="40" height="40" alt="JavaScript" />
             <br />
             <font size="1" color="#F0F6FC"><strong>JavaScript</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+            <img src="https://cdn.simpleicons.org/nodedotjs" width="40" height="40" alt="Node.js" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Node.js</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />
+            <img src="https://cdn.simpleicons.org/express/8B949E" width="40" height="40" alt="Express" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Express</strong></font>
           </td>
@@ -188,42 +188,42 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 <table width="100%">
   <tr>
     <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
-      <h3 align="center" style="margin-top: 0; color: #F0F6FC; font-family: 'Orbitron', 'Inter', sans-serif;"> Databases, Cloud & DevOps</h3>
+      <h3 align="center" style="margin-top: 0; color: #F0F6FC; font-family: 'Orbitron', 'Inter', sans-serif;">💻 Databases, Cloud & DevOps</h3>
       <br />
       <table align="center" border="0" cellpadding="6" cellspacing="6">
         <tr align="center">
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+            <img src="https://cdn.simpleicons.org/postgresql" width="40" height="40" alt="PostgreSQL" />
             <br />
             <font size="1" color="#F0F6FC"><strong>PostgreSQL</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+            <img src="https://cdn.simpleicons.org/mysql" width="40" height="40" alt="MySQL" />
             <br />
             <font size="1" color="#F0F6FC"><strong>MySQL</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+            <img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Docker</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+            <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Git</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions" />
+            <img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" alt="GitHub Actions" />
             <br />
             <font size="1" color="#F0F6FC"><strong>GH Actions</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+            <img src="https://cdn.simpleicons.org/linux" width="40" height="40" alt="Linux" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Linux</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
+            <img src="https://cdn.simpleicons.org/postman" width="40" height="40" alt="Postman" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Postman</strong></font>
           </td>
@@ -246,42 +246,42 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
       <table align="center" border="0" cellpadding="6" cellspacing="6">
         <tr align="center">
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=anaconda" width="40" height="40" alt="Anaconda" />
+            <img src="https://cdn.simpleicons.org/anaconda" width="40" height="40" alt="Anaconda" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Anaconda</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=kaggle" width="40" height="40" alt="Kaggle" />
+            <img src="https://cdn.simpleicons.org/kaggle" width="40" height="40" alt="Kaggle" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Kaggle</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
-            <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002.svg" width="40" height="40" alt="Antigravity" />
+            <img src="https://cdn.simpleicons.org/googlegemini" width="40" height="40" alt="Antigravity" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Antigravity</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A31D1D; border-radius: 10px;">
-            <img src="https://img.icons8.com/color/48/ghost.png" width="40" height="40" alt="Kiro" />
+            <img src="https://api.iconify.design/lucide:ghost.svg?color=A31D1D" width="40" height="40" alt="Kiro" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Kiro</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+            <img src="https://cdn.simpleicons.org/visualstudiocode" width="40" height="40" alt="VS Code" />
             <br />
             <font size="1" color="#F0F6FC"><strong>VS Code</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+            <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Git</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+            <img src="https://cdn.simpleicons.org/github/8B949E" width="40" height="40" alt="GitHub" />
             <br />
             <font size="1" color="#F0F6FC"><strong>GitHub</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" alt="Jupyter Notebook" />
+            <img src="https://cdn.simpleicons.org/jupyter" width="40" height="40" alt="Jupyter Notebook" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Jupyter</strong></font>
           </td>
