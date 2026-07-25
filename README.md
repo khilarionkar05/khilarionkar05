@@ -93,7 +93,7 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 <table width="100%">
   <tr>
     <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
-      <h3 align="center" style="margin-top: 0; color: #A855F7; font-family: 'Orbitron', 'Inter', sans-serif;">🤖 Artificial Intelligence & Machine Learning</h3>
+      <h3 align="center" style="margin-top: 0; color: #A855F7; font-family: 'Orbitron', 'Inter', sans-serif;"> Artificial Intelligence & Machine Learning</h3>
       <br />
       <table align="center" border="0" cellpadding="6" cellspacing="6">
         <tr align="center">
@@ -143,7 +143,7 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 <table width="100%">
   <tr>
     <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
-      <h3 align="center" style="margin-top: 0; color: #58A6FF; font-family: 'Orbitron', 'Inter', sans-serif;">⚙️ Backend & Systems Architecture</h3>
+      <h3 align="center" style="margin-top: 0; color: #58A6FF; font-family: 'Orbitron', 'Inter', sans-serif;"> Backend & Systems Architecture</h3>
       <br />
       <table align="center" border="0" cellpadding="6" cellspacing="6">
         <tr align="center">
@@ -188,7 +188,7 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 <table width="100%">
   <tr>
     <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
-      <h3 align="center" style="margin-top: 0; color: #F0F6FC; font-family: 'Orbitron', 'Inter', sans-serif;">💻 Databases, Cloud & DevOps</h3>
+      <h3 align="center" style="margin-top: 0; color: #F0F6FC; font-family: 'Orbitron', 'Inter', sans-serif;"> Databases, Cloud & DevOps</h3>
       <br />
       <table align="center" border="0" cellpadding="6" cellspacing="6">
         <tr align="center">
