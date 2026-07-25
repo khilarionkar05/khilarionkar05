@@ -312,4 +312,88 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
   </tr>
 </table>
 
+---
+
+## 📜 Certifications & Verified Credentials
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="45%" align="left">Certification / Credential</th>
+      <th width="25%" align="left">Issuer</th>
+      <th width="15%" align="left">Status</th>
+      <th width="15%" align="right">Credential Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Fundamentals of Deep Learning / Computer Vision Applications</strong></td>
+      <td>NVIDIA Deep Learning Institute</td>
+      <td><code>🟢 Verified</code></td>
+      <td align="right">
+        <a href="#" target="_blank" style="color: #58A6FF; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center;">
+          Verify <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-left: 2px;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Cloud Computing & Distributed Systems Specialization</strong></td>
+      <td>Google Cloud & Microsoft</td>
+      <td><code>🟢 Verified</code></td>
+      <td align="right">
+        <a href="#" target="_blank" style="color: #58A6FF; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center;">
+          Verify <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-left: 2px;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Neural Networks and Deep Learning / Applied Machine Learning</strong></td>
+      <td>DeepLearning.AI & Coursera</td>
+      <td><code>🟢 Verified</code></td>
+      <td align="right">
+        <a href="#" target="_blank" style="color: #58A6FF; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center;">
+          Verify <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-left: 2px;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 🌐 Professional Profiles & Ecosystem
+
+<p align="center">
+  <strong>Connect & Networks</strong><br>
+  <a href="https://linkedin.com/in/khilarionkar05" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://khilarionkar05.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:khilarionkar05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Competitive Coding & Data Science</strong><br>
+  <a href="https://leetcode.com/khilarionkar05" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-00C896?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://hackerrank.com/khilarionkar05" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00C896?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://geeksforgeeks.org/user/khilarionkar05" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-00C896?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kaggle.com/khilarionkar05" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-00C896?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</p>
 
