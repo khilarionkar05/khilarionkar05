@@ -85,39 +85,39 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
       <br />
       <table align="center" border="0" cellpadding="6" cellspacing="6">
         <tr align="center">
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=pytorch" width="24" height="24" alt="PyTorch" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>PyTorch</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=tensorflow" width="24" height="24" alt="TensorFlow" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>TensorFlow</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=opencv" width="24" height="24" alt="OpenCV" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>OpenCV</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=sklearn" width="24" height="24" alt="scikit-learn" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="scikit-learn" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>scikit-learn</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #00C896; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/seaborn/00C896" width="24" height="24" alt="Seaborn" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #00C896; border-radius: 10px;">
+            <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>Seaborn</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #00C896; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=pandas" width="24" height="24" alt="Pandas" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #00C896; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" alt="Pandas" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>Pandas</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #00C896; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=numpy" width="24" height="24" alt="NumPy" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #00C896; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=numpy" width="40" height="40" alt="NumPy" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>NumPy</strong></font>
           </td>
         </tr>
@@ -135,34 +135,34 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
       <br />
       <table align="center" border="0" cellpadding="6" cellspacing="6">
         <tr align="center">
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=python" width="24" height="24" alt="Python" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>Python</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=fastapi" width="24" height="24" alt="FastAPI" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>FastAPI</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=ts" width="24" height="24" alt="TypeScript" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>TypeScript</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=js" width="24" height="24" alt="JavaScript" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>JavaScript</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=nodejs" width="24" height="24" alt="Node.js" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>Node.js</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=express" width="24" height="24" alt="Express" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>Express</strong></font>
           </td>
         </tr>
@@ -180,39 +180,39 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
       <br />
       <table align="center" border="0" cellpadding="6" cellspacing="6">
         <tr align="center">
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=postgres" width="24" height="24" alt="PostgreSQL" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>PostgreSQL</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=mysql" width="24" height="24" alt="MySQL" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>MySQL</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=docker" width="24" height="24" alt="Docker" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>Docker</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=git" width="24" height="24" alt="Git" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>Git</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=githubactions" width="24" height="24" alt="GitHub Actions" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>GH Actions</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=linux" width="24" height="24" alt="Linux" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>Linux</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://skillicons.dev/icons?i=postman" width="24" height="24" alt="Postman" />
-            <br /><br />
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
+            <br />
             <font size="1" color="#F0F6FC"><strong>Postman</strong></font>
           </td>
         </tr>
