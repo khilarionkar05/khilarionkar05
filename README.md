@@ -78,50 +78,145 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 
 <table width="100%">
   <tr>
-    <td bgcolor="#161B22" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
-      <h3 style="margin-top: 0; color: #A855F7;">🤖 Artificial Intelligence & Machine Learning</h3>
-      <p style="margin-top: 12px; margin-bottom: 0;">
-        <img src="https://img.shields.io/badge/PyTorch-A855F7?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/TensorFlow-A855F7?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-        <img src="https://img.shields.io/badge/OpenCV-A855F7?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-        <img src="https://img.shields.io/badge/scikit--learn-A855F7?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-        <img src="https://img.shields.io/badge/Hugging%20Face-A855F7?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
-        <img src="https://img.shields.io/badge/Pandas-00C896?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-        <img src="https://img.shields.io/badge/NumPy-00C896?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-      </p>
+    <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
+      <h3 align="center" style="margin-top: 0; color: #A855F7; font-family: 'Orbitron', 'Inter', sans-serif;">🤖 Artificial Intelligence & Machine Learning</h3>
+      <br />
+      <table align="center" border="0" cellpadding="8" cellspacing="8">
+        <tr>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/pytorch/A855F7" width="28" height="28" alt="PyTorch" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>PyTorch</strong></font>
+          </td>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/tensorflow/A855F7" width="28" height="28" alt="TensorFlow" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>TensorFlow</strong></font>
+          </td>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/opencv/A855F7" width="28" height="28" alt="OpenCV" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>OpenCV</strong></font>
+          </td>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/scikitlearn/A855F7" width="28" height="28" alt="scikit-learn" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>scikit-learn</strong></font>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/huggingface/A855F7" width="28" height="28" alt="Hugging Face" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>Hugging Face</strong></font>
+          </td>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #00C896; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/pandas/00C896" width="28" height="28" alt="Pandas" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>Pandas</strong></font>
+          </td>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #00C896; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/numpy/00C896" width="28" height="28" alt="NumPy" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>NumPy</strong></font>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
 <table width="100%">
   <tr>
-    <td bgcolor="#161B22" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
-      <h3 style="margin-top: 0; color: #58A6FF;">⚙️ Backend & Systems Architecture</h3>
-      <p style="margin-top: 12px; margin-bottom: 0;">
-        <img src="https://img.shields.io/badge/Python-58A6FF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/FastAPI-58A6FF?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/TypeScript-58A6FF?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/JavaScript-58A6FF?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Node.js-58A6FF?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-58A6FF?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-      </p>
+    <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
+      <h3 align="center" style="margin-top: 0; color: #58A6FF; font-family: 'Orbitron', 'Inter', sans-serif;">⚙️ Backend & Systems Architecture</h3>
+      <br />
+      <table align="center" border="0" cellpadding="8" cellspacing="8">
+        <tr>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/python/58A6FF" width="28" height="28" alt="Python" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>Python</strong></font>
+          </td>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/fastapi/58A6FF" width="28" height="28" alt="FastAPI" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>FastAPI</strong></font>
+          </td>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/typescript/58A6FF" width="28" height="28" alt="TypeScript" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>TypeScript</strong></font>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/javascript/58A6FF" width="28" height="28" alt="JavaScript" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>JavaScript</strong></font>
+          </td>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/nodedotjs/58A6FF" width="28" height="28" alt="Node.js" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>Node.js</strong></font>
+          </td>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/express/58A6FF" width="28" height="28" alt="Express" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>Express</strong></font>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
 <table width="100%">
   <tr>
-    <td bgcolor="#161B22" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
-      <h3 style="margin-top: 0; color: #F0F6FC;">💻 Databases, Cloud & DevOps</h3>
-      <p style="margin-top: 12px; margin-bottom: 0;">
-        <img src="https://img.shields.io/badge/PostgreSQL-21262D?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/MySQL-21262D?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Docker-21262D?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Git-21262D?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub%20Actions-21262D?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-        <img src="https://img.shields.io/badge/Linux-21262D?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-        <img src="https://img.shields.io/badge/Postman-21262D?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-      </p>
+    <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
+      <h3 align="center" style="margin-top: 0; color: #F0F6FC; font-family: 'Orbitron', 'Inter', sans-serif;">💻 Databases, Cloud & DevOps</h3>
+      <br />
+      <table align="center" border="0" cellpadding="8" cellspacing="8">
+        <tr>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/postgresql/F0F6FC" width="28" height="28" alt="PostgreSQL" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>PostgreSQL</strong></font>
+          </td>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/mysql/F0F6FC" width="28" height="28" alt="MySQL" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>MySQL</strong></font>
+          </td>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/docker/F0F6FC" width="28" height="28" alt="Docker" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>Docker</strong></font>
+          </td>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/git/F0F6FC" width="28" height="28" alt="Git" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>Git</strong></font>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/githubactions/F0F6FC" width="28" height="28" alt="GitHub Actions" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>GH Actions</strong></font>
+          </td>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/linux/F0F6FC" width="28" height="28" alt="Linux" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>Linux</strong></font>
+          </td>
+          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/postman/F0F6FC" width="28" height="28" alt="Postman" />
+            <br /><br />
+            <font size="1" color="#F0F6FC"><strong>Postman</strong></font>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
