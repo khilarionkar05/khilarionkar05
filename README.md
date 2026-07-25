@@ -118,3 +118,95 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
   </tr>
 </table>
 
+---
+
+## 📂 Featured Projects
+
+<table width="100%">
+  <tr>
+    <!-- Project 1: Schedulo -->
+    <td width="50%" valign="top">
+      <h3>⚡ Schedulo</h3>
+      <p style="color: #58A6FF; font-size: 0.9em; margin-top: -8px;"><strong>Automated Timetable Generation SaaS</strong></p>
+      <p>Architected a scalable timetable generation engine that solves multi-variable constraint scheduling problems (teacher availability, room capacities, section limits) using backtracking heuristic algorithms. Designed a robust PostgreSQL relational schema with composite indexes to ensure zero database conflicts under high peak queries.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-21262D?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/React-21262D?style=flat-square&logo=react&logoColor=white" alt="React" />
+        <img src="https://img.shields.io/badge/PostgreSQL-21262D?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <p>
+        <a href="https://github.com/khilarionkar05/schedulo" target="_blank" style="color: #58A6FF; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 3px;"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg> Codebase
+        </a>
+        &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+        <a href="https://schedulo-demo.vercel.app" target="_blank" style="color: #00C896; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#00C896" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 3px;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Live Demo
+        </a>
+      </p>
+    </td>
+    <!-- Project 2: BloomWatch -->
+    <td width="50%" valign="top">
+      <h3>🌱 BloomWatch</h3>
+      <p style="color: #58A6FF; font-size: 0.9em; margin-top: -8px;"><strong>Multilingual Agricultural AI Assistant</strong></p>
+      <p>Developed a context-aware agricultural advisory platform powered by natural language processing models. Integrates distributed weather APIs and soil databases to deliver localized crop advice across multiple regional Indian languages. Built with Node.js and Express to manage high concurrent webhook payloads.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Node.js-21262D?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-21262D?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/NLP_Models-A855F7?style=flat-square" alt="NLP" />
+      </p>
+      <p>
+        <a href="https://github.com/khilarionkar05/bloomwatch" target="_blank" style="color: #58A6FF; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 3px;"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg> Codebase
+        </a>
+        &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+        <a href="https://bloomwatch.vercel.app" target="_blank" style="color: #00C896; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#00C896" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 3px;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Live Demo
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 3: The Dynasty -->
+    <td width="50%" valign="top">
+      <h3>🏛️ The Dynasty</h3>
+      <p style="color: #58A6FF; font-size: 0.9em; margin-top: -8px;"><strong>High-End Full-Stack Web Application</strong></p>
+      <p>Engineered a luxury-grade digital interface focusing on obsidian dark theme styling and motion curves. Implemented responsive glassmorphism containers, smooth animations, and code-splitting structures to achieve fast, high-performance rendering under varied client hardware configurations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-21262D?style=flat-square&logo=react&logoColor=white" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-21262D?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-21262D?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Modern_UI/UX-58A6FF?style=flat-square" alt="Modern UI/UX" />
+      </p>
+      <p>
+        <a href="https://github.com/khilarionkar05/the-dynasty" target="_blank" style="color: #58A6FF; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 3px;"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg> Codebase
+        </a>
+        &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+        <a href="https://thedynasty.vercel.app" target="_blank" style="color: #00C896; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#00C896" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 3px;"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Live Demo
+        </a>
+      </p>
+    </td>
+    <!-- Project 4: AI & Computer Vision Systems -->
+    <td width="50%" valign="top">
+      <h3>👁️ AI & Computer Vision Systems</h3>
+      <p style="color: #58A6FF; font-size: 0.9em; margin-top: -8px;"><strong>Edge-Optimized Vision Pipelines</strong></p>
+      <p>Engineered deep convolutional neural networks (CNNs) for automated diagnostic assistance. Created real-time object tracking and image segmentation pipelines using OpenCV, optimizing model weights via Post-Training Quantization (PTQ) to achieve high-speed inference on CPU-limited edge devices.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-A855F7?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/OpenCV-A855F7?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/TensorFlow-A855F7?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+      <p>
+        <a href="https://github.com/khilarionkar05/ai-vision-systems" target="_blank" style="color: #58A6FF; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 3px;"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg> Codebase
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
