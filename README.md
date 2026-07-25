@@ -158,9 +158,9 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
             <font size="1" color="#F0F6FC"><strong>FastAPI</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/typescript" width="40" height="40" alt="TypeScript" />
+            <img src="https://cdn.simpleicons.org/cplusplus" width="40" height="40" alt="C++" />
             <br />
-            <font size="1" color="#F0F6FC"><strong>TypeScript</strong></font>
+            <font size="1" color="#F0F6FC"><strong>C++</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
             <img src="https://cdn.simpleicons.org/javascript" width="40" height="40" alt="JavaScript" />
