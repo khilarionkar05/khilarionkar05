@@ -265,3 +265,51 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
   </tbody>
 </table>
 
+---
+
+## 🏆 Achievements & Milestones
+
+<table width="100%">
+  <tr>
+    <!-- Achievement 1: NVIDIA Apprenticeship -->
+    <td width="50%" valign="top">
+      <h4>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#00C896" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 6px;"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg>
+        NVIDIA Apprenticeship Selection
+      </h4>
+      <p style="color: #8B949E; font-size: 0.85em; margin-top: -8px;"><strong>February 2026 &bull; Deep Learning & Tools</strong></p>
+      <p>Selected for a competitive technical apprenticeship at NVIDIA, focusing on GPU-accelerated computing pipelines, CUDA optimizations, and enterprise-grade deep learning developer tools.</p>
+    </td>
+    <!-- Achievement 2: Smart Farming Chatbot -->
+    <td width="50%" valign="top">
+      <h4>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#00C896" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 6px;"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+        Agricultural AI Chatbot Launch
+      </h4>
+      <p style="color: #8B949E; font-size: 0.85em; margin-top: -8px;"><strong>Production Launch &bull; Multilingual Chat</strong></p>
+      <p>Deployed a multilingual agricultural chatbot leveraging NLP models to deliver real-time weather analytics and regional cultivation advice directly to farmers across multiple Indian languages.</p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Achievement 3: Dragon Coders Hackathon -->
+    <td width="50%" valign="top">
+      <h4>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 6px;"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        Technical Leadership (Dragon Coders)
+      </h4>
+      <p style="color: #8B949E; font-size: 0.85em; margin-top: -8px;"><strong>Team Leader &bull; Hackathons & Sprints</strong></p>
+      <p>Directs software architecture decisions, code reviews, and system integration strategies for the "Dragon Coders" hackathon team, steering multi-disciplinary developer sprints.</p>
+    </td>
+    <!-- Achievement 4: Venture Foundation -->
+    <td width="50%" valign="top">
+      <h4>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#A855F7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 6px;"><rect x="2" y="2" width="20" height="8" rx="2" ry="2"/><rect x="2" y="14" width="20" height="8" rx="2" ry="2"/><line x1="6" y1="6" x2="6.01" y2="6"/><line x1="6" y1="18" x2="6.01" y2="18"/></svg>
+        OKTech Innovations Founded
+      </h4>
+      <p style="color: #8B949E; font-size: 0.85em; margin-top: -8px;"><strong>Founder &bull; Custom Engineering Services</strong></p>
+      <p>Established a software and automation consultancy providing bespoke machine learning solutions, process automation engines, and high-performance full-stack web applications.</p>
+    </td>
+  </tr>
+</table>
+
+
