@@ -24,17 +24,17 @@
 
 ---
 
-## 📌 Professional Introduction
+##  Professional Introduction
 
 I am an Artificial Intelligence & Machine Learning specialist focused on engineering scalable, end-to-end intelligent systems. My expertise spans Deep Learning, Computer Vision, and Full Stack Engineering, allowing me to bridge the gap between complex neural architectures and production-ready applications. I design and build low-latency API pipelines using FastAPI, train robust vision models with PyTorch and TensorFlow, and integrate generative AI capabilities into modern workflows. Passionate about solving complex engineering challenges, I focus on optimizing model inference, building data ingestion pipelines, and deploying containerized solutions. I aim to build high-impact, robust systems that leverage state-of-the-art AI to address critical business and scientific challenges.
 
-### 🎯 Career Objective
+###  Career Objective
 
 > "To architect and deploy scalable, production-ready AI systems at a world-class technology company, leveraging computer vision and generative models to build intelligent software that solves complex real-world challenges."
 
 ---
 
-## ⚡ Quick Information
+##  Quick Information
 
 <table width="100%">
   <tr>
@@ -74,7 +74,7 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 
 ---
 
-## 🛠️ Technical Identity
+##  Technical Identity
 
 <table width="100%">
   <tr>
@@ -128,7 +128,7 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khilarionkar05&show_icons=true&theme=dark&hide_border=true&bg_color=161B22&title_color=58A6FF&icon_color=00C896&text_color=F0F6FC" alt="Onkar's GitHub Stats" height="195" />
@@ -142,7 +142,7 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 
 ---
 
-## 🌐 Professional Profiles & Ecosystem
+##  Professional Profiles & Ecosystem
 
 <p align="center">
   <strong>Connect & Networks</strong><br>
