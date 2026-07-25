@@ -222,3 +222,46 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khilarionkar05&layout=compact&theme=dark&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=F0F6FC" alt="Onkar's Top Languages" height="195" />
 </p>
+
+---
+
+## 🗺️ Learning Journey & R&D Roadmap
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%" align="left">Status</th>
+      <th width="30%" align="left">Timeline Phase</th>
+      <th width="50%" align="left">Core Focus & R&D Objectives</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>⏳ In Progress</code></td>
+      <td><strong>Active R&D & Engineering</strong></td>
+      <td>
+        • Agentic AI workflows & multi-agent system orchestration<br>
+        • Advanced Computer Vision pipeline optimization for edge devices<br>
+        • Low-latency API architecture with FastAPI & asynchronous task queues
+      </td>
+    </tr>
+    <tr>
+      <td><code>⏳ In Progress</code></td>
+      <td><strong>Technologies in Adoption</strong></td>
+      <td>
+        • Distributed PyTorch training & Multi-GPU model pipelines<br>
+        • Vector Databases (Pinecone, ChromaDB) & Retrieval-Augmented Generation (RAG)<br>
+        • Kubernetes container orchestration for scalable AI workloads
+      </td>
+    </tr>
+    <tr>
+      <td><code>🔜 Upcoming</code></td>
+      <td><strong>Future Research Goals</strong></td>
+      <td>
+        • Low-latency algorithmic trading execution pipelines<br>
+        • LLM fine-tuning & parameter-efficient adaptation (LoRA/QLoRA)
+      </td>
+    </tr>
+  </tbody>
+</table>
+
