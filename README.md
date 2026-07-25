@@ -105,10 +105,10 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>scikit-learn</strong></font>
           </td>
-          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
-            <img src="https://img.icons8.com/color/48/hugging-face.png" width="24" height="24" alt="Hugging Face" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #00C896; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/seaborn/00C896" width="24" height="24" alt="Seaborn" />
             <br /><br />
-            <font size="1" color="#F0F6FC"><strong>Hugging Face</strong></font>
+            <font size="1" color="#F0F6FC"><strong>Seaborn</strong></font>
           </td>
           <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #00C896; border-radius: 10px;">
             <img src="https://skillicons.dev/icons?i=pandas" width="24" height="24" alt="Pandas" />
