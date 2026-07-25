@@ -233,6 +233,64 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
   </tr>
 </table>
 
+<br />
+
+<table width="100%">
+  <tr>
+    <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
+      <h3 align="center" style="margin-top: 0; color: #F0F6FC; font-family: 'Orbitron', 'Inter', sans-serif; display: flex; align-items: center; justify-content: center; gap: 8px;">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#A31D1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 6px;"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>
+        Tools & IDEs
+      </h3>
+      <br />
+      <table align="center" border="0" cellpadding="6" cellspacing="6">
+        <tr align="center">
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=anaconda" width="40" height="40" alt="Anaconda" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Anaconda</strong></font>
+          </td>
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=kaggle" width="40" height="40" alt="Kaggle" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Kaggle</strong></font>
+          </td>
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
+            <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002.svg" width="40" height="40" alt="Antigravity" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Antigravity</strong></font>
+          </td>
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A31D1D; border-radius: 10px;">
+            <img src="https://img.icons8.com/color/48/ghost.png" width="40" height="40" alt="Kiro" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Kiro</strong></font>
+          </td>
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>VS Code</strong></font>
+          </td>
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Git</strong></font>
+          </td>
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>GitHub</strong></font>
+          </td>
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" alt="Jupyter Notebook" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Jupyter</strong></font>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
 ---
 
 <h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
