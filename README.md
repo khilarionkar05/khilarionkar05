@@ -81,42 +81,40 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
     <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
       <h3 align="center" style="margin-top: 0; color: #A855F7; font-family: 'Orbitron', 'Inter', sans-serif;">🤖 Artificial Intelligence & Machine Learning</h3>
       <br />
-      <table align="center" border="0" cellpadding="8" cellspacing="8">
+      <table align="center" border="0" cellpadding="6" cellspacing="6">
         <tr>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/pytorch/A855F7" width="28" height="28" alt="PyTorch" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/pytorch/A855F7" width="24" height="24" alt="PyTorch" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>PyTorch</strong></font>
           </td>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/tensorflow/A855F7" width="28" height="28" alt="TensorFlow" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/tensorflow/A855F7" width="24" height="24" alt="TensorFlow" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>TensorFlow</strong></font>
           </td>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/opencv/A855F7" width="28" height="28" alt="OpenCV" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/opencv/A855F7" width="24" height="24" alt="OpenCV" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>OpenCV</strong></font>
           </td>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/scikitlearn/A855F7" width="28" height="28" alt="scikit-learn" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/scikitlearn/A855F7" width="24" height="24" alt="scikit-learn" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>scikit-learn</strong></font>
           </td>
-        </tr>
-        <tr>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/huggingface/A855F7" width="28" height="28" alt="Hugging Face" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/huggingface/A855F7" width="24" height="24" alt="Hugging Face" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>Hugging Face</strong></font>
           </td>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #00C896; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/pandas/00C896" width="28" height="28" alt="Pandas" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #00C896; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/pandas/00C896" width="24" height="24" alt="Pandas" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>Pandas</strong></font>
           </td>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #00C896; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/numpy/00C896" width="28" height="28" alt="NumPy" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #00C896; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/numpy/00C896" width="24" height="24" alt="NumPy" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>NumPy</strong></font>
           </td>
@@ -131,37 +129,35 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
     <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
       <h3 align="center" style="margin-top: 0; color: #58A6FF; font-family: 'Orbitron', 'Inter', sans-serif;">⚙️ Backend & Systems Architecture</h3>
       <br />
-      <table align="center" border="0" cellpadding="8" cellspacing="8">
+      <table align="center" border="0" cellpadding="6" cellspacing="6">
         <tr>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/python/58A6FF" width="28" height="28" alt="Python" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/python/58A6FF" width="24" height="24" alt="Python" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>Python</strong></font>
           </td>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/fastapi/58A6FF" width="28" height="28" alt="FastAPI" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/fastapi/58A6FF" width="24" height="24" alt="FastAPI" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>FastAPI</strong></font>
           </td>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/typescript/58A6FF" width="28" height="28" alt="TypeScript" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/typescript/58A6FF" width="24" height="24" alt="TypeScript" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>TypeScript</strong></font>
           </td>
-        </tr>
-        <tr>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/javascript/58A6FF" width="28" height="28" alt="JavaScript" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/javascript/58A6FF" width="24" height="24" alt="JavaScript" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>JavaScript</strong></font>
           </td>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/nodedotjs/58A6FF" width="28" height="28" alt="Node.js" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/nodedotjs/58A6FF" width="24" height="24" alt="Node.js" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>Node.js</strong></font>
           </td>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/express/58A6FF" width="28" height="28" alt="Express" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #58A6FF; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/express/58A6FF" width="24" height="24" alt="Express" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>Express</strong></font>
           </td>
@@ -176,42 +172,40 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
     <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
       <h3 align="center" style="margin-top: 0; color: #F0F6FC; font-family: 'Orbitron', 'Inter', sans-serif;">💻 Databases, Cloud & DevOps</h3>
       <br />
-      <table align="center" border="0" cellpadding="8" cellspacing="8">
+      <table align="center" border="0" cellpadding="6" cellspacing="6">
         <tr>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/postgresql/F0F6FC" width="28" height="28" alt="PostgreSQL" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/postgresql/F0F6FC" width="24" height="24" alt="PostgreSQL" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>PostgreSQL</strong></font>
           </td>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/mysql/F0F6FC" width="28" height="28" alt="MySQL" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/mysql/F0F6FC" width="24" height="24" alt="MySQL" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>MySQL</strong></font>
           </td>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/docker/F0F6FC" width="28" height="28" alt="Docker" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/docker/F0F6FC" width="24" height="24" alt="Docker" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>Docker</strong></font>
           </td>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/git/F0F6FC" width="28" height="28" alt="Git" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/git/F0F6FC" width="24" height="24" alt="Git" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>Git</strong></font>
           </td>
-        </tr>
-        <tr>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/githubactions/F0F6FC" width="28" height="28" alt="GitHub Actions" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/githubactions/F0F6FC" width="24" height="24" alt="GitHub Actions" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>GH Actions</strong></font>
           </td>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/linux/F0F6FC" width="28" height="28" alt="Linux" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/linux/F0F6FC" width="24" height="24" alt="Linux" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>Linux</strong></font>
           </td>
-          <td align="center" valign="middle" width="90" height="90" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-            <img src="https://cdn.simpleicons.org/postman/F0F6FC" width="28" height="28" alt="Postman" />
+          <td align="center" valign="middle" width="85" height="85" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/postman/F0F6FC" width="24" height="24" alt="Postman" />
             <br /><br />
             <font size="1" color="#F0F6FC"><strong>Postman</strong></font>
           </td>
