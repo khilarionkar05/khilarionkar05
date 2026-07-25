@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=32&duration=4000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=600&lines=Computer+Vision+Developer;Machine+Learning+Engineer;Deep+Learning+Engineer;Full+Stack+AI+Developer;Generative+AI+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=37&duration=4000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=600&lines=Computer+Vision+Developer;Machine+Learning+Engineer;Deep+Learning+Engineer;Full+Stack+AI+Developer;Generative+AI+Engineer" alt="Typing Animation" />
 </p>
 
 <p align="center">
