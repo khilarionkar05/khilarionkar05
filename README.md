@@ -7,20 +7,32 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=550&lines=AI+Engineer;Machine+Learning+Engineer;Computer+Vision+Developer;Full+Stack+AI+Developer;Future+Generative+AI+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=26&duration=6000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=800&lines=AI+Engineer+•+Machine+Learning+Engineer+•+Computer+Vision+Developer+•+Full+Stack+AI+Developer+•+Future+Generative+AI+Engineer" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <a href="mailto:onkarkhilari17@gmail.com" style="margin: 0 12px; text-decoration: none; color: #58A6FF;">
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 4px;"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg> onkarkhilari17@gmail.com
+  <a href="mailto:onkarkhilari17@gmail.com" target="_blank" style="margin: 0 8px; text-decoration: none;">
+    <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+      <circle cx="20" cy="20" r="18" fill="#1C2128" stroke="#30363d" stroke-width="1.5" />
+      <rect x="11" y="13" width="18" height="14" rx="2" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M11 13l9 7 9-7" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    </svg>
   </a>
-  &middot;
-  <a href="https://www.linkedin.com/in/onkar-khilari" style="margin: 0 12px; text-decoration: none; color: #58A6FF;">
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 4px;"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg> LinkedIn
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/onkar-khilari" target="_blank" style="margin: 0 8px; text-decoration: none;">
+    <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+      <circle cx="20" cy="20" r="18" fill="#1C2128" stroke="#30363d" stroke-width="1.5" />
+      <path d="M25 15a4 4 0 0 1 4 4v7h-3v-7a1 1 0 0 0-1-1 1 1 0 0 0-1 1v7h-3v-7a4 4 0 0 1 4-4z" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="12" y="16" width="3" height="10" fill="#58A6FF"/>
+      <circle cx="13.5" cy="12" r="1.5" fill="#58A6FF"/>
+    </svg>
   </a>
-  &middot;
-  <a href="https://github.com/khilarionkar05" style="margin: 0 12px; text-decoration: none; color: #58A6FF;">
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 4px;"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg> GitHub
+  &nbsp;&nbsp;
+  <a href="https://github.com/khilarionkar05" target="_blank" style="margin: 0 8px; text-decoration: none;">
+    <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" style="vertical-align: middle;">
+      <circle cx="20" cy="20" r="18" fill="#1C2128" stroke="#30363d" stroke-width="1.5" />
+      <path d="M18 29.5c-4 1.2-4-2-5.6-2.4m11.2 4.8v-3.1a2.7 2.7 0 0 0-.75-2.1c2.5-.28 5.15-1.23 5.15-5.6A4.35 4.35 0 0 0 27 18.1a4 4 0 0 0-.07-2.9s-.9-.26-3 1.2a10.7 10.7 0 0 0-5.6 0c-2.1-1.46-3-1.2-3-1.2a4 4 0 0 0-.08 2.9 4.35 4.35 0 0 0-1.18 3.1c0 4.35 2.65 5.3 5.15 5.6a2.7 2.7 0 0 0-.75 2.1v3.1" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
   </a>
 </p>
 
