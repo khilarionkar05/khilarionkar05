@@ -3,7 +3,7 @@
 # Onkar Khilari
 
 <p align="center">
-  <img src="banner.png" alt="Onkar Khilari - AI Engineer" width="100%" style="border-radius: 10px;" />
+  <img src="banner.png" alt="Onkar Anil Khilari - AI Engineer" width="100%" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
