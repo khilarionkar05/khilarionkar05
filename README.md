@@ -3,7 +3,7 @@
 # Onkar Khilari
 
 <p align="center">
-  <img src="banner.png" alt="Onkar Anil Khilari - AI Engineer" width="100%" style="border-radius: 10px;" />
+  <img src="banner.png" alt="Onkar Khilari - AI Engineer" width="100%" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
@@ -26,23 +26,32 @@
 
 ---
 
-## 📌 Professional Introduction
+<h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
+  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#A31D1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 8px;"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+  Professional Introduction
+</h2>
 
 I am an Artificial Intelligence & Machine Learning specialist focused on engineering scalable, end-to-end intelligent systems. My expertise spans Deep Learning, Computer Vision, and Full Stack Engineering, allowing me to bridge the gap between complex neural architectures and production-ready applications. I design and build low-latency API pipelines using FastAPI, train robust vision models with PyTorch and TensorFlow, and integrate generative AI capabilities into modern workflows. Passionate about solving complex engineering challenges, I focus on optimizing model inference, building data ingestion pipelines, and deploying containerized solutions. I aim to build high-impact, robust systems that leverage state-of-the-art AI to address critical business and scientific challenges.
 
-### 🎯 Career Objective
+<h3 align="center" style="display: flex; align-items: center; justify-content: center; gap: 6px;">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#A31D1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 6px;"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>
+  Career Objective
+</h3>
 
 > "To architect and deploy scalable, production-ready AI systems at a world-class technology company, leveraging computer vision and generative models to build intelligent software that solves complex real-world challenges."
 
 ---
 
-## ⚡ Quick Information
+<h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
+  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#A31D1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 8px;"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
+  Quick Information
+</h2>
 
 <table width="100%">
   <tr align="center">
     <td width="50%" valign="top" align="center">
       <h4>
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 6px;"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c0 2 2 3 6 3s6-1 6-3v-5"/></svg>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#A31D1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 6px;"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c0 2 2 3 6 3s6-1 6-3v-5"/></svg>
         Education & Specialization
       </h4>
       <strong>B.Tech Computer Science Engineering</strong><br>
@@ -50,7 +59,7 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
     </td>
     <td width="50%" valign="top" align="center">
       <h4>
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#00C896" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 6px;"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#A31D1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 6px;"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>
         Current Focus
       </h4>
       Developing end-to-end Computer Vision pipelines and optimizing deep neural networks for edge deployments.
@@ -59,14 +68,14 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
   <tr align="center">
     <td width="50%" valign="top" align="center">
       <h4>
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#A855F7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 6px;"><polyline points="4 17 10 11 4 5"/><line x1="12" y1="19" x2="20" y2="19"/></svg>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#A31D1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 6px;"><polyline points="4 17 10 11 4 5"/><line x1="12" y1="19" x2="20" y2="19"/></svg>
         Currently Learning
       </h4>
       Distributed training systems, Large Language Model orchestration, and scalable cloud-based inference deployment.
     </td>
     <td width="50%" valign="top" align="center">
       <h4>
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 6px;"><circle cx="18" cy="18" r="3"/><circle cx="6" cy="6" r="3"/><circle cx="18" cy="6" r="3"/><path d="M6 9v7a3 3 0 0 0 3 3h6"/><path d="M18 9v3"/></svg>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#A31D1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 6px;"><circle cx="18" cy="18" r="3"/><circle cx="6" cy="6" r="3"/><circle cx="18" cy="6" r="3"/><path d="M6 9v7a3 3 0 0 0 3 3h6"/><path d="M18 9v3"/></svg>
         Open to Collaboration
       </h4>
       Open-source AI libraries, machine learning research, computer vision projects, and pipeline optimizations.
@@ -76,7 +85,10 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 
 ---
 
-## 🛠️ Technical Identity
+<h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
+  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#A31D1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 8px;"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"/><rect x="9" y="9" width="6" height="6"/><line x1="9" y1="1" x2="9" y2="4"/><line x1="15" y1="1" x2="15" y2="4"/><line x1="9" y1="20" x2="9" y2="23"/><line x1="15" y1="20" x2="15" y2="23"/><line x1="20" y1="9" x2="23" y2="9"/><line x1="20" y1="15" x2="23" y2="15"/><line x1="1" y1="9" x2="4" y2="9"/><line x1="1" y1="15" x2="4" y2="15"/></svg>
+  Technical Identity
+</h2>
 
 <table width="100%">
   <tr>
@@ -223,7 +235,10 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
+  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#A31D1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 8px;"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+  GitHub Analytics
+</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khilarionkar05&theme=dark&hide_border=true&bg_color=161B22&side_color=161B22&number_color=58A6FF&stroke=30363d&fire=00C896&ring=58A6FF" alt="Onkar's GitHub Streak" />
@@ -231,7 +246,10 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 
 ---
 
-## 🌐 Professional Profiles & Ecosystem
+<h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
+  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#A31D1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 8px;"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+  Professional Profiles & Ecosystem
+</h2>
 
 <p align="center">
   <strong>Connect & Networks</strong><br>
