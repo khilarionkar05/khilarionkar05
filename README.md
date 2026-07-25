@@ -225,17 +225,9 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-| Onkar's GitHub Stats | Onkar's GitHub Streak |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=khilarionkar05&show_icons=true&theme=dark&hide_border=true&bg_color=161B22&title_color=58A6FF&icon_color=00C896&text_color=F0F6FC" alt="Onkar's GitHub Stats" height="195" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=khilarionkar05&theme=dark&hide_border=true&bg_color=161B22&side_color=161B22&number_color=58A6FF&stroke=30363d&fire=00C896&ring=58A6FF" alt="Onkar's GitHub Streak" height="195" /> |
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khilarionkar05&layout=compact&theme=dark&hide_border=true&bg_color=161B22&title_color=58A6FF&text_color=F0F6FC" alt="Onkar's Top Languages" height="195" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khilarionkar05&theme=dark&hide_border=true&bg_color=161B22&side_color=161B22&number_color=58A6FF&stroke=30363d&fire=00C896&ring=58A6FF" alt="Onkar's GitHub Streak" />
+</p>
 
 ---
 
