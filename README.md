@@ -261,7 +261,7 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
             <font size="1" color="#F0F6FC"><strong>Antigravity</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A31D1D; border-radius: 10px;">
-            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#A31D1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;"><path d="M9 10h.01M15 10h.01M21 11.5A8.38 8.38 0 0 0 12 3a8.38 8.38 0 0 0-9 8.5C3 16.5 6 21 12 21s9-4.5 9-9.5zM3 11.5c1.5-1 3.5-1 5 0 1.5 1 3.5 1 5 0 1.5-1 3.5-1 5 0 1.5 1 3 1"/></svg>
+            <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f47b.svg" width="40" height="40" alt="Kiro" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Kiro</strong></font>
           </td>
