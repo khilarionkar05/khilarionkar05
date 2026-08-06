@@ -312,12 +312,6 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 </p>
 
 <p align="center">
-  <a href="https://github.com/khilarionkar05" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khilarionkar05&theme=react-dark&hide_border=true&bg_color=161B22" alt="Onkar's GitHub Activity Graph" />
-  </a>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khilarionkar05/khilarionkar05/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khilarionkar05/khilarionkar05/output/github-contribution-grid-snake.svg">
