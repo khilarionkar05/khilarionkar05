@@ -317,6 +317,14 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
   </a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khilarionkar05/khilarionkar05/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khilarionkar05/khilarionkar05/output/github-contribution-grid-snake.svg">
+    <img alt="Onkar's GitHub Contribution Snake" src="https://raw.githubusercontent.com/khilarionkar05/khilarionkar05/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 <h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
