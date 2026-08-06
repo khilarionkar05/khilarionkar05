@@ -314,6 +314,19 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 ---
 
 <h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
+  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#A31D1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 8px;"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
+  LeetCode Analytics
+</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Onkar_Anil_Khilari/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Onkar_Anil_Khilari?theme=dark&font=Inter&ext=heatmap" alt="Onkar's LeetCode Stats" />
+  </a>
+</p>
+
+---
+
+<h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
   <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#A31D1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 8px;"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
   Professional Profiles & Ecosystem
 </h2>
