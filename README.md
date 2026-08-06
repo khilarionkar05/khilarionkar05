@@ -311,6 +311,12 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khilarionkar05&theme=dark&hide_border=true&bg_color=161B22&side_color=161B22&number_color=58A6FF&stroke=30363d&fire=00C896&ring=58A6FF" alt="Onkar's GitHub Streak" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/khilarionkar05" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khilarionkar05&theme=react-dark&hide_border=true&bg_color=161B22" alt="Onkar's GitHub Activity Graph" />
+  </a>
+</p>
+
 ---
 
 <h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
@@ -320,7 +326,7 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 
 <p align="center">
   <a href="https://leetcode.com/u/Onkar_Anil_Khilari/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Onkar_Anil_Khilari?theme=dark&font=Inter&ext=heatmap" alt="Onkar's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Onkar_Anil_Khilari?theme=dark&font=Inter" alt="Onkar's LeetCode Stats" />
   </a>
 </p>
 
