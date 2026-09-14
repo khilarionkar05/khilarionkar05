@@ -290,7 +290,7 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
             <font size="1" color="#F0F6FC"><strong>GitHub</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub Desktop" />
+  <img src="https://raw.githubusercontent.com/shgysk8zer0/logos/master/github-desktop.svg" width="40" height="40" alt="GitHub Desktop" style="filter: none;" />
   <br />
   <font size="1" color="#F0F6FC"><strong>GitHub Desktop</strong></font>
 </td>
