@@ -290,6 +290,11 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
             <font size="1" color="#F0F6FC"><strong>GitHub</strong></font>
           </td>
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+  <img src="https://cdn.simpleicons.org/github/8B949E" width="40" height="40" alt="GitHub Desktop" />
+  <br />
+  <font size="1" color="#F0F6FC"><strong>GitHub Desktop</strong></font>
+</td>
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
             <img src="https://cdn.simpleicons.org/jupyter" width="40" height="40" alt="Jupyter Notebook" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Jupyter</strong></font>
