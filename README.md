@@ -179,6 +179,7 @@ Open-source AI libraries, machine learning research, computer vision projects, a
 <h3 align="center">Databases, Cloud & DevOps</h3>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <table align="center" border="0" cellpadding="6" cellspacing="6">
 <tr align="center">
 =======
@@ -228,9 +229,51 @@ Open-source AI libraries, machine learning research, computer vision projects, a
       </table>
     </td>
   </tr>
+=======
+<table align="center" border="0" cellpadding="6" cellspacing="6">
+<tr align="center">
+
+<td width="100" bgcolor="#1C2128">
+<img src="https://cdn.simpleicons.org/postgresql" width="40" height="40" alt="PostgreSQL"><br>
+<strong>PostgreSQL</strong>
+</td>
+
+<td width="100" bgcolor="#1C2128">
+<img src="https://cdn.simpleicons.org/mysql" width="40" height="40" alt="MySQL"><br>
+<strong>MySQL</strong>
+</td>
+
+<td width="100" bgcolor="#1C2128">
+<img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker"><br>
+<strong>Docker</strong>
+</td>
+
+<td width="100" bgcolor="#1C2128">
+<img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git"><br>
+<strong>Git</strong>
+</td>
+
+<td width="100" bgcolor="#1C2128">
+<img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" alt="GitHub Actions"><br>
+<strong>GH Actions</strong>
+</td>
+
+<td width="100" bgcolor="#1C2128">
+<img src="https://cdn.simpleicons.org/linux" width="40" height="40" alt="Linux"><br>
+<strong>Linux</strong>
+</td>
+
+<td width="100" bgcolor="#1C2128">
+<img src="https://cdn.simpleicons.org/postman" width="40" height="40" alt="Postman"><br>
+<strong>Postman</strong>
+</td>
+
+</tr>
+>>>>>>> be7ad961a73b53deaeb3b8818fd3618796d6c07d
 </table>
 >>>>>>> bbef06ec9800ecb78a8ec1789f519164789bc477
 
+<<<<<<< HEAD
 <td width="100" bgcolor="#1C2128">
 <img src="https://cdn.simpleicons.org/postgresql" width="40" height="40" alt="PostgreSQL"><br>
 <strong>PostgreSQL</strong>
@@ -400,6 +443,8 @@ Open-source AI libraries, machine learning research, computer vision projects, a
 
 <br />
 
+=======
+>>>>>>> be7ad961a73b53deaeb3b8818fd3618796d6c07d
 ---
 
 <h3 align="center">
@@ -577,4 +622,8 @@ Open-source AI libraries, machine learning research, computer vision projects, a
 <img src="https://img.shields.io/badge/Kaggle-00C896?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
 </a>
 
+<<<<<<< HEAD
 </p>
+=======
+</p>
+>>>>>>> be7ad961a73b53deaeb3b8818fd3618796d6c07d
