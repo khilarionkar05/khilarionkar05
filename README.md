@@ -178,14 +178,65 @@ Open-source AI libraries, machine learning research, computer vision projects, a
 
 <h3 align="center">Databases, Cloud & DevOps</h3>
 
+<<<<<<< HEAD
 <table align="center" border="0" cellpadding="6" cellspacing="6">
 <tr align="center">
+=======
+<table width="100%">
+  <tr>
+    <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
+      <h3 align="center" style="margin-top: 0; color: #F0F6FC; font-family: 'Orbitron', 'Inter', sans-serif;"> Databases, Cloud & DevOps</h3>
+      <br />
+      <table align="center" border="0" cellpadding="6" cellspacing="6">
+        <tr align="center">
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/postgresql" width="40" height="40" alt="PostgreSQL" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>PostgreSQL</strong></font>
+          </td>
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/mysql" width="40" height="40" alt="MySQL" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>MySQL</strong></font>
+          </td>
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Docker</strong></font>
+          </td>
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Git</strong></font>
+          </td>
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/githubactions" width="40" height="40" alt="GitHub Actions" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>GH Actions</strong></font>
+          </td>
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C21228" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/linux" width="40" height="40" alt="Linux" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Linux</strong></font>
+          </td>
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/postman" width="40" height="40" alt="Postman" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Postman</strong></font>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+>>>>>>> bbef06ec9800ecb78a8ec1789f519164789bc477
 
 <td width="100" bgcolor="#1C2128">
 <img src="https://cdn.simpleicons.org/postgresql" width="40" height="40" alt="PostgreSQL"><br>
 <strong>PostgreSQL</strong>
 </td>
 
+<<<<<<< HEAD
 <td width="100" bgcolor="#1C2128">
 <img src="https://cdn.simpleicons.org/mysql" width="40" height="40" alt="MySQL"><br>
 <strong>MySQL</strong>
@@ -217,7 +268,137 @@ Open-source AI libraries, machine learning research, computer vision projects, a
 </td>
 
 </tr>
+=======
+<table width="100%">
+  <tr>
+    <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
+      <h3 align="center" style="margin-top: 0; color: #F0F6FC; font-family: 'Orbitron', 'Inter', sans-serif;">
+        Tools & IDEs
+      </h3>
+      <br />
+      <table align="center" border="0" cellpadding="6" cellspacing="6">
+        <tr align="center">
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/anaconda" width="40" height="40" alt="Anaconda" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Anaconda</strong></font>
+          </td>
+
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/kaggle" width="40" height="40" alt="Kaggle" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Kaggle</strong></font>
+          </td>
+
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/googlegemini" width="40" height="40" alt="Antigravity" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Antigravity</strong></font>
+          </td>
+
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A31D1D; border-radius: 10px;">
+            <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f47b.svg" width="40" height="40" alt="Kiro" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Kiro</strong></font>
+          </td>
+
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>VS Code</strong></font>
+          </td>
+
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Git</strong></font>
+          </td>
+
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/github/8B949E" width="40" height="40" alt="GitHub" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>GitHub</strong></font>
+          </td>
+
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://raw.githubusercontent.com/shgysk8zer0/logos/master/github-desktop.svg" width="40" height="40" alt="GitHub Desktop" style="filter: none;" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>GitHub Desktop</strong></font>
+          </td>
+
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+            <img src="https://cdn.simpleicons.org/jupyter" width="40" height="40" alt="Jupyter Notebook" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Jupyter</strong></font>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+>>>>>>> bbef06ec9800ecb78a8ec1789f519164789bc477
 </table>
+
+<br />
+
+<!-- ==================== SOFTWARE TESTING ==================== -->
+
+<table width="100%">
+  <tr>
+    <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
+
+      <h3 align="center" style="margin-top: 0; color: #00C896; font-family: 'Orbitron', 'Inter', sans-serif;">
+        Software Testing
+      </h3>
+
+      <br />
+
+      <table align="center" border="0" cellpadding="6" cellspacing="6">
+        <tr align="center">
+
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128">
+            <img src="https://cdn.simpleicons.org/playwright" width="40" height="40" alt="Playwright" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Playwright</strong></font>
+          </td>
+
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128">
+            <img src="https://cdn.simpleicons.org/postman" width="40" height="40" alt="Postman" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>Postman</strong></font>
+          </td>
+
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128">
+            <img src="https://cdn.simpleicons.org/zaproxy" width="40" height="40" alt="OWASP ZAP" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>OWASP ZAP</strong></font>
+          </td>
+
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128">
+            <img src="https://cdn.simpleicons.org/apachejmeter" width="40" height="40" alt="Apache JMeter" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>JMeter</strong></font>
+          </td>
+
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128">
+            <img src="https://cdn.simpleicons.org/eslint" width="40" height="40" alt="ESLint" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>ESLint</strong></font>
+          </td>
+
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128">
+            <img src="https://cdn.simpleicons.org/mysql" width="40" height="40" alt="MySQL" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>MySQL</strong></font>
+          </td>
+
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+<br />
 
 ---
 
