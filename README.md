@@ -351,49 +351,37 @@ Open-source AI libraries, machine learning research, computer vision projects, a
 ---
 
 <h2 align="center">
-  🌐 Professional Profiles & Ecosystem
+  🌐 Professional Profiles &amp; Ecosystem
 </h2>
 
-<p align="center">
+<h3>Connect &amp; Networks</h3>
 
-<strong>Connect & Networks</strong><br><br>
-
-<a href="https://www.linkedin.com/in/onkar-khilari">
-<img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:onkarkhilari17@gmail.com">
-<img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
+<p>
+  <a href="https://www.linkedin.com/in/onkar-khilari">
+    <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:onkarkhilari17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-<p align="center">
+<h3>Competitive Coding &amp; Data Science</h3>
 
-<strong>Competitive Coding & Data Science</strong><br><br>
-
-<a href="https://leetcode.com/khilarionkar05">
-<img src="https://img.shields.io/badge/LeetCode-00C896?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://hackerrank.com/khilarionkar05">
-<img src="https://img.shields.io/badge/HackerRank-00C896?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://geeksforgeeks.org/user/khilarionkar05">
-<img src="https://img.shields.io/badge/GeeksforGeeks-00C896?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://kaggle.com/khilarionkar05">
-<img src="https://img.shields.io/badge/Kaggle-00C896?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-</a>
-
+<p>
+  <a href="https://leetcode.com/khilarionkar05">
+    <img src="https://img.shields.io/badge/LeetCode-00C896?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  &nbsp;
+  <a href="https://hackerrank.com/khilarionkar05">
+    <img src="https://img.shields.io/badge/HackerRank-00C896?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+  &nbsp;
+  <a href="https://geeksforgeeks.org/user/khilarionkar05">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-00C896?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+  </a>
+  &nbsp;
+  <a href="https://kaggle.com/khilarionkar05">
+    <img src="https://img.shields.io/badge/Kaggle-00C896?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
 </p>
