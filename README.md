@@ -226,7 +226,7 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
             <br />
             <font size="1" color="#F0F6FC"><strong>GH Actions</strong></font>
           </td>
-          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C21228" style="border: 1px solid #30363d; border-radius: 10px;">
             <img src="https://cdn.simpleicons.org/linux" width="40" height="40" alt="Linux" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Linux</strong></font>
@@ -247,8 +247,7 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 <table width="100%">
   <tr>
     <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
-      <h3 align="center" style="margin-top: 0; color: #F0F6FC; font-family: 'Orbitron', 'Inter', sans-serif; display: flex; align-items: center; justify-content: center; gap: 8px;">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#A31D1D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-right: 6px;"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>
+      <h3 align="center" style="margin-top: 0; color: #F0F6FC; font-family: 'Orbitron', 'Inter', sans-serif;">
         Tools & IDEs
       </h3>
       <br />
@@ -259,41 +258,49 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
             <br />
             <font size="1" color="#F0F6FC"><strong>Anaconda</strong></font>
           </td>
+
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
             <img src="https://cdn.simpleicons.org/kaggle" width="40" height="40" alt="Kaggle" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Kaggle</strong></font>
           </td>
+
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A855F7; border-radius: 10px;">
             <img src="https://cdn.simpleicons.org/googlegemini" width="40" height="40" alt="Antigravity" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Antigravity</strong></font>
           </td>
+
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #A31D1D; border-radius: 10px;">
             <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f47b.svg" width="40" height="40" alt="Kiro" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Kiro</strong></font>
           </td>
+
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
             <br />
             <font size="1" color="#F0F6FC"><strong>VS Code</strong></font>
           </td>
+
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
             <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git" />
             <br />
             <font size="1" color="#F0F6FC"><strong>Git</strong></font>
           </td>
+
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
             <img src="https://cdn.simpleicons.org/github/8B949E" width="40" height="40" alt="GitHub" />
             <br />
             <font size="1" color="#F0F6FC"><strong>GitHub</strong></font>
           </td>
+
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
-  <img src="https://raw.githubusercontent.com/shgysk8zer0/logos/master/github-desktop.svg" width="40" height="40" alt="GitHub Desktop" style="filter: none;" />
-  <br />
-  <font size="1" color="#F0F6FC"><strong>GitHub Desktop</strong></font>
-</td>
+            <img src="https://raw.githubusercontent.com/shgysk8zer0/logos/master/github-desktop.svg" width="40" height="40" alt="GitHub Desktop" style="filter: none;" />
+            <br />
+            <font size="1" color="#F0F6FC"><strong>GitHub Desktop</strong></font>
+          </td>
+
           <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128" style="border: 1px solid #30363d; border-radius: 10px;">
             <img src="https://cdn.simpleicons.org/jupyter" width="40" height="40" alt="Jupyter Notebook" />
             <br />
@@ -301,37 +308,20 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
           </td>
         </tr>
       </table>
-      
     </td>
   </tr>
 </table>
+
 <br />
 
 <!-- ==================== SOFTWARE TESTING ==================== -->
 
 <table width="100%">
   <tr>
-    <td bgcolor="#161B22" align="center"
-        style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
+    <td bgcolor="#161B22" align="center" style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
 
-      <h3 align="center"
-          style="margin-top: 0; color: #00C896; font-family: 'Orbitron', 'Inter', sans-serif; display: flex; align-items: center; justify-content: center; gap: 8px;">
-
-        <!-- Software Testing Icon -->
-        <svg width="20" height="20"
-             viewBox="0 0 24 24"
-             fill="none"
-             stroke="#00C896"
-             stroke-width="2"
-             stroke-linecap="round"
-             stroke-linejoin="round"
-             style="vertical-align: middle; margin-right: 6px;">
-          <path d="M9 11l3 3L22 4"/>
-          <path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/>
-        </svg>
-
+      <h3 align="center" style="margin-top: 0; color: #00C896; font-family: 'Orbitron', 'Inter', sans-serif;">
         Software Testing
-
       </h3>
 
       <br />
@@ -339,135 +329,40 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
       <table align="center" border="0" cellpadding="6" cellspacing="6">
         <tr align="center">
 
-          <!-- Playwright -->
-          <td align="center"
-              valign="middle"
-              width="95"
-              height="95"
-              bgcolor="#1C2128"
-              style="border: 1px solid #00C896; border-radius: 10px;">
-
-            <img src="https://cdn.simpleicons.org/playwright"
-                 width="40"
-                 height="40"
-                 alt="Playwright" />
-
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128">
+            <img src="https://cdn.simpleicons.org/playwright" width="40" height="40" alt="Playwright" />
             <br />
-
-            <font size="1" color="#F0F6FC">
-              <strong>Playwright</strong>
-            </font>
-
+            <font size="1" color="#F0F6FC"><strong>Playwright</strong></font>
           </td>
 
-
-          <!-- Postman -->
-          <td align="center"
-              valign="middle"
-              width="95"
-              height="95"
-              bgcolor="#1C2128"
-              style="border: 1px solid #00C896; border-radius: 10px;">
-
-            <img src="https://cdn.simpleicons.org/postman"
-                 width="40"
-                 height="40"
-                 alt="Postman" />
-
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128">
+            <img src="https://cdn.simpleicons.org/postman" width="40" height="40" alt="Postman" />
             <br />
-
-            <font size="1" color="#F0F6FC">
-              <strong>Postman</strong>
-            </font>
-
+            <font size="1" color="#F0F6FC"><strong>Postman</strong></font>
           </td>
 
-
-          <!-- OWASP ZAP -->
-          <td align="center"
-              valign="middle"
-              width="95"
-              height="95"
-              bgcolor="#1C2128"
-              style="border: 1px solid #00C896; border-radius: 10px;">
-
-            <img src="https://cdn.simpleicons.org/zaproxy"
-                 width="40"
-                 height="40"
-                 alt="OWASP ZAP" />
-
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128">
+            <img src="https://cdn.simpleicons.org/zaproxy" width="40" height="40" alt="OWASP ZAP" />
             <br />
-
-            <font size="1" color="#F0F6FC">
-              <strong>OWASP ZAP</strong>
-            </font>
-
+            <font size="1" color="#F0F6FC"><strong>OWASP ZAP</strong></font>
           </td>
 
-
-          <!-- Apache JMeter -->
-          <td align="center"
-              valign="middle"
-              width="95"
-              height="95"
-              bgcolor="#1C2128"
-              style="border: 1px solid #00C896; border-radius: 10px;">
-
-            <img src="https://cdn.simpleicons.org/apachejmeter"
-                 width="40"
-                 height="40"
-                 alt="Apache JMeter" />
-
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128">
+            <img src="https://cdn.simpleicons.org/apachejmeter" width="40" height="40" alt="Apache JMeter" />
             <br />
-
-            <font size="1" color="#F0F6FC">
-              <strong>JMeter</strong>
-            </font>
-
+            <font size="1" color="#F0F6FC"><strong>JMeter</strong></font>
           </td>
 
-
-          <!-- ESLint -->
-          <td align="center"
-              valign="middle"
-              width="95"
-              height="95"
-              bgcolor="#1C2128"
-              style="border: 1px solid #00C896; border-radius: 10px;">
-
-            <img src="https://cdn.simpleicons.org/eslint"
-                 width="40"
-                 height="40"
-                 alt="ESLint" />
-
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128">
+            <img src="https://cdn.simpleicons.org/eslint" width="40" height="40" alt="ESLint" />
             <br />
-
-            <font size="1" color="#F0F6FC">
-              <strong>ESLint</strong>
-            </font>
-
+            <font size="1" color="#F0F6FC"><strong>ESLint</strong></font>
           </td>
 
-
-          <!-- MySQL -->
-          <td align="center"
-              valign="middle"
-              width="95"
-              height="95"
-              bgcolor="#1C2128"
-              style="border: 1px solid #00C896; border-radius: 10px;">
-
-            <img src="https://cdn.simpleicons.org/mysql"
-                 width="40"
-                 height="40"
-                 alt="MySQL" />
-
+          <td align="center" valign="middle" width="95" height="95" bgcolor="#1C2128">
+            <img src="https://cdn.simpleicons.org/mysql" width="40" height="40" alt="MySQL" />
             <br />
-
-            <font size="1" color="#F0F6FC">
-              <strong>MySQL</strong>
-            </font>
-
+            <font size="1" color="#F0F6FC"><strong>MySQL</strong></font>
           </td>
 
         </tr>
@@ -476,8 +371,6 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
     </td>
   </tr>
 </table>
-
-<!-- ==================== END SOFTWARE TESTING ==================== -->
 
 <br />
 
