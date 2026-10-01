@@ -301,9 +301,185 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
           </td>
         </tr>
       </table>
+      
     </td>
   </tr>
 </table>
+<br />
+
+<!-- ==================== SOFTWARE TESTING ==================== -->
+
+<table width="100%">
+  <tr>
+    <td bgcolor="#161B22" align="center"
+        style="padding: 24px; border: 1px solid #30363d; border-radius: 12px;">
+
+      <h3 align="center"
+          style="margin-top: 0; color: #00C896; font-family: 'Orbitron', 'Inter', sans-serif; display: flex; align-items: center; justify-content: center; gap: 8px;">
+
+        <!-- Software Testing Icon -->
+        <svg width="20" height="20"
+             viewBox="0 0 24 24"
+             fill="none"
+             stroke="#00C896"
+             stroke-width="2"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             style="vertical-align: middle; margin-right: 6px;">
+          <path d="M9 11l3 3L22 4"/>
+          <path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/>
+        </svg>
+
+        Software Testing
+
+      </h3>
+
+      <br />
+
+      <table align="center" border="0" cellpadding="6" cellspacing="6">
+        <tr align="center">
+
+          <!-- Playwright -->
+          <td align="center"
+              valign="middle"
+              width="95"
+              height="95"
+              bgcolor="#1C2128"
+              style="border: 1px solid #00C896; border-radius: 10px;">
+
+            <img src="https://cdn.simpleicons.org/playwright"
+                 width="40"
+                 height="40"
+                 alt="Playwright" />
+
+            <br />
+
+            <font size="1" color="#F0F6FC">
+              <strong>Playwright</strong>
+            </font>
+
+          </td>
+
+
+          <!-- Postman -->
+          <td align="center"
+              valign="middle"
+              width="95"
+              height="95"
+              bgcolor="#1C2128"
+              style="border: 1px solid #00C896; border-radius: 10px;">
+
+            <img src="https://cdn.simpleicons.org/postman"
+                 width="40"
+                 height="40"
+                 alt="Postman" />
+
+            <br />
+
+            <font size="1" color="#F0F6FC">
+              <strong>Postman</strong>
+            </font>
+
+          </td>
+
+
+          <!-- OWASP ZAP -->
+          <td align="center"
+              valign="middle"
+              width="95"
+              height="95"
+              bgcolor="#1C2128"
+              style="border: 1px solid #00C896; border-radius: 10px;">
+
+            <img src="https://cdn.simpleicons.org/zaproxy"
+                 width="40"
+                 height="40"
+                 alt="OWASP ZAP" />
+
+            <br />
+
+            <font size="1" color="#F0F6FC">
+              <strong>OWASP ZAP</strong>
+            </font>
+
+          </td>
+
+
+          <!-- Apache JMeter -->
+          <td align="center"
+              valign="middle"
+              width="95"
+              height="95"
+              bgcolor="#1C2128"
+              style="border: 1px solid #00C896; border-radius: 10px;">
+
+            <img src="https://cdn.simpleicons.org/apachejmeter"
+                 width="40"
+                 height="40"
+                 alt="Apache JMeter" />
+
+            <br />
+
+            <font size="1" color="#F0F6FC">
+              <strong>JMeter</strong>
+            </font>
+
+          </td>
+
+
+          <!-- ESLint -->
+          <td align="center"
+              valign="middle"
+              width="95"
+              height="95"
+              bgcolor="#1C2128"
+              style="border: 1px solid #00C896; border-radius: 10px;">
+
+            <img src="https://cdn.simpleicons.org/eslint"
+                 width="40"
+                 height="40"
+                 alt="ESLint" />
+
+            <br />
+
+            <font size="1" color="#F0F6FC">
+              <strong>ESLint</strong>
+            </font>
+
+          </td>
+
+
+          <!-- MySQL -->
+          <td align="center"
+              valign="middle"
+              width="95"
+              height="95"
+              bgcolor="#1C2128"
+              style="border: 1px solid #00C896; border-radius: 10px;">
+
+            <img src="https://cdn.simpleicons.org/mysql"
+                 width="40"
+                 height="40"
+                 alt="MySQL" />
+
+            <br />
+
+            <font size="1" color="#F0F6FC">
+              <strong>MySQL</strong>
+            </font>
+
+          </td>
+
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+<!-- ==================== END SOFTWARE TESTING ==================== -->
+
+<br />
 
 ---
 
