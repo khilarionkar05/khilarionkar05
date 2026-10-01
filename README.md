@@ -354,9 +354,9 @@ Open-source AI libraries, machine learning research, computer vision projects, a
   🌐 Professional Profiles &amp; Ecosystem
 </h2>
 
-<h3>Connect &amp; Networks</h3>
+<h3 align="center">Connect &amp; Networks</h3>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/onkar-khilari">
     <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -366,9 +366,9 @@ Open-source AI libraries, machine learning research, computer vision projects, a
   </a>
 </p>
 
-<h3>Competitive Coding &amp; Data Science</h3>
+<h3 align="center">Competitive Coding &amp; Data Science</h3>
 
-<p>
+<p align="center">
   <a href="https://leetcode.com/khilarionkar05">
     <img src="https://img.shields.io/badge/LeetCode-00C896?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
