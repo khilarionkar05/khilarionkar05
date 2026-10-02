@@ -29,13 +29,13 @@
 ---
 
 <h2 align="center">
-  👤 Professional Introduction
+   Professional Introduction
 </h2>
 
 I am an Artificial Intelligence & Machine Learning specialist focused on engineering scalable, end-to-end intelligent systems. My expertise spans Deep Learning, Computer Vision, and Full Stack Engineering, allowing me to bridge the gap between complex neural architectures and production-ready applications. I design and build low-latency API pipelines using FastAPI, train robust vision models with PyTorch and TensorFlow, and integrate generative AI capabilities into modern workflows. Passionate about solving complex engineering challenges, I focus on optimizing model inference, building data ingestion pipelines, and deploying containerized solutions. I aim to build high-impact, robust systems that leverage state-of-the-art AI to address critical business and scientific challenges.
 
 <h3 align="center">
-  🎯 Career Objective
+   Career Objective
 </h3>
 
 > "To architect and deploy scalable, production-ready AI systems at a world-class technology company, leveraging computer vision and generative models to build intelligent software that solves complex real-world challenges."
@@ -43,7 +43,7 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 ---
 
 <h2 align="center">
-  📋 Quick Information
+   Quick Information
 </h2>
 
 <table width="100%">
@@ -51,7 +51,7 @@ I am an Artificial Intelligence & Machine Learning specialist focused on enginee
 
 <td width="50%" valign="top">
 
-<h4>🎓 Education & Specialization</h4>
+<h4> Education & Specialization</h4>
 
 <strong>B.Tech Computer Science Engineering</strong><br>
 Specialization in <em>Artificial Intelligence & Machine Learning</em>
@@ -60,7 +60,7 @@ Specialization in <em>Artificial Intelligence & Machine Learning</em>
 
 <td width="50%" valign="top">
 
-<h4>🎯 Current Focus</h4>
+<h4> Current Focus</h4>
 
 Developing end-to-end Computer Vision pipelines and optimizing deep neural networks for edge deployments.
 
@@ -72,7 +72,7 @@ Developing end-to-end Computer Vision pipelines and optimizing deep neural netwo
 
 <td width="50%" valign="top">
 
-<h4>💻 Currently Learning</h4>
+<h4> Currently Learning</h4>
 
 Distributed training systems, Large Language Model orchestration, and scalable cloud-based inference deployment.
 
@@ -80,7 +80,7 @@ Distributed training systems, Large Language Model orchestration, and scalable c
 
 <td width="50%" valign="top">
 
-<h4>🤝 Open to Collaboration</h4>
+<h4> Open to Collaboration</h4>
 
 Open-source AI libraries, machine learning research, computer vision projects, and pipeline optimizations.
 
@@ -92,7 +92,7 @@ Open-source AI libraries, machine learning research, computer vision projects, a
 ---
 
 <h2 align="center">
-  ⚙️ Technical Identity
+   Technical Identity
 </h2>
 
 <h3 align="center">Artificial Intelligence & Machine Learning</h3>
@@ -222,7 +222,7 @@ Open-source AI libraries, machine learning research, computer vision projects, a
 ---
 
 <h3 align="center">
-  🛠️ Tools & IDEs
+   Tools & IDEs
 </h3>
 
 <table align="center" border="0" cellpadding="6" cellspacing="6">
@@ -279,7 +279,7 @@ Open-source AI libraries, machine learning research, computer vision projects, a
 ---
 
 <h3 align="center">
-  🧪 Software Testing
+   Software Testing
 </h3>
 
 <table align="center" border="0" cellpadding="6" cellspacing="6">
@@ -321,7 +321,7 @@ Open-source AI libraries, machine learning research, computer vision projects, a
 ---
 
 <h2 align="center">
-  📊 GitHub Analytics
+   GitHub Analytics
 </h2>
 
 <p align="center">
@@ -339,7 +339,7 @@ Open-source AI libraries, machine learning research, computer vision projects, a
 ---
 
 <h2 align="center">
-  💻 LeetCode Analytics
+   LeetCode Analytics
 </h2>
 
 <p align="center">
@@ -351,7 +351,7 @@ Open-source AI libraries, machine learning research, computer vision projects, a
 ---
 
 <h2 align="center">
-  🌐 Professional Profiles &amp; Ecosystem
+   Professional Profiles &amp; Ecosystem
 </h2>
 
 <h3 align="center">Connect &amp; Networks</h3>
